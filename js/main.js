@@ -41,7 +41,7 @@ window.onload = function() {
                   opacity: 1,
                   color: "#000"
                 }
-              ], 3000);
+              ], 1100);
             i = i - 1 >= 0 ? i - 1 : limit - 1
 
             impg.src = urlScroll[i]
